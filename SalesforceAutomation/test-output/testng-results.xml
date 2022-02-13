@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="34" total="35" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19655" started-at="2022-01-31T16:23:03 PST" finished-at="2022-01-31T16:23:23 PST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19655" started-at="2022-01-31T16:23:03 PST" finished-at="2022-01-31T16:23:23 PST">
+      <class name="com.selenium.test.SalesForceAutomation">
+        <test-method status="PASS" signature="CancelNewView()[pri:0, instance:com.selenium.test.SalesForceAutomation@2c039ac6]" name="CancelNewView" duration-ms="19615" started-at="2022-01-31T16:23:03 PST" finished-at="2022-01-31T16:23:23 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CancelNewView -->
+      </class> <!-- com.selenium.test.SalesForceAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
